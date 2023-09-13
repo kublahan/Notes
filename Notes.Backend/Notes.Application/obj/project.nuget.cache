@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "06O3d9vc8IctxI1HyWQNL9sA3KKN8AWIZq+XDjBbWd6LttJuyZUmGxu9FZi9wouOSQZCZDPwNAGtPcFYXfyiiw==",
+  "dgSpecHash": "zFLQyYLZF74Rs9gsHK+Vvwqj+FS75ZkCDslR3NBoy9QgjjTqdKA5wJIFPjdF0xHO09eW885V70ecwP/UQYqP8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
+  "projectFilePath": "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kuzia\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\kuzia\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
-    "C:\\Users\\kuzia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\kuzia\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\kuzia\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\kuzia\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\kuzia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",

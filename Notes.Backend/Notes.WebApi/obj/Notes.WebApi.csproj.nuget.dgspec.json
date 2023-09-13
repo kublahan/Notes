@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
+    "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
+    "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectUniqueName": "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "projectName": "Notes.WebApi",
-        "projectPath": "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
+        "projectPath": "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.WebApi\\Notes.WebApi.csproj",
         "packagesPath": "C:\\Users\\kuzia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kuzia\\source\\repos\\Notes.Backend\\Notes.WebApi\\obj\\",
+        "outputPath": "D:\\Programming\\Projects\\Notes\\Notes.Backend\\Notes.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
